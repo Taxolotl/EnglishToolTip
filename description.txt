@@ -1,0 +1,1 @@
+Adds a tooltip to display the english name of an item
